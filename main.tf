@@ -107,12 +107,3 @@ output "http_proxy_id" {
 output "forwarding_rule_id" {
   value = google_compute_global_forwarding_rule.default.id
 }
-Message read by Anil Kumar Jeenapati
-
-
-,Yesterday 7:11 PM,Edited,
-Jump to bottom
-Message Anil Kumar Jeenapati
-
-New
-Update
